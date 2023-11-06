@@ -1,4 +1,4 @@
-import { TreeNode } from '@pind/designable-core'
+import { TreeNode } from '@oxygen/designable-core'
 import { useContext } from 'react'
 import { TreeNodeContext } from '../context'
 

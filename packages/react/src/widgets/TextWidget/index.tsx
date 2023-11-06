@@ -1,6 +1,6 @@
 import React, { Fragment, PropsWithChildren } from 'react'
-import { isStr, isPlainObj } from '@pind/designable-shared'
-import { GlobalRegistry, IDesignerMiniLocales } from '@pind/designable-core'
+import { isStr, isPlainObj } from '@oxygen/designable-shared'
+import { GlobalRegistry, IDesignerMiniLocales } from '@oxygen/designable-core'
 import { observer, ReactFC } from '@formily/reactive-react'
 
 export interface ITextWidgetProps {

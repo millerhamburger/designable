@@ -4,7 +4,7 @@ import {
   createDesigner,
   GlobalRegistry,
   IResourceLike,
-} from '@pind/designable-core'
+} from '@oxygen/designable-core'
 import {
   CompositePanel,
   Designer,
@@ -21,8 +21,8 @@ import {
   ViewToolsWidget,
   Workbench,
   WorkspacePanel,
-} from '@pind/designable-react'
-import { SettingsForm } from '@pind/designable-react-settings-form'
+} from '@oxygen/designable-react'
+import { SettingsForm } from '@oxygen/designable-react-settings-form'
 import { Button, Radio, Space } from 'antd'
 import React, { createElement, useEffect, useMemo } from 'react'
 import { SchemaEditorWidget } from './widgets'

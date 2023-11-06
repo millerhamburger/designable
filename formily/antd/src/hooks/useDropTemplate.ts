@@ -1,5 +1,5 @@
-import { AppendNodeEvent, TreeNode } from '@pind/designable-core'
-import { useDesigner } from '@pind/designable-react'
+import { AppendNodeEvent, TreeNode } from '@oxygen/designable-core'
+import { useDesigner } from '@oxygen/designable-react'
 import { matchComponent, matchChildComponent } from '../shared'
 
 export const useDropTemplate = (

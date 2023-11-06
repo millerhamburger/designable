@@ -1,4 +1,4 @@
-import { EventDriver, globalThisPolyfill } from '@pind/designable-shared'
+import { EventDriver, globalThisPolyfill } from '@oxygen/designable-shared'
 import { Engine } from '../models/Engine'
 import { ViewportScrollEvent } from '../events'
 

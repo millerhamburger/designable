@@ -5,7 +5,7 @@ import {
   createDesigner,
   createResource,
   GlobalRegistry,
-} from '@pind/designable-core'
+} from '@oxygen/designable-core'
 import {
   CompositePanel,
   Designer,
@@ -22,8 +22,8 @@ import {
   ViewToolsWidget,
   Workbench,
   WorkspacePanel,
-} from '@pind/designable-react'
-import { MonacoInput, SettingsForm } from '@pind/designable-react-settings-form'
+} from '@oxygen/designable-react'
+import { MonacoInput, SettingsForm } from '@oxygen/designable-react-settings-form'
 import { Button, Radio, Space } from 'antd'
 import React, { useEffect } from 'react'
 import { createRoot } from 'react-dom/client'

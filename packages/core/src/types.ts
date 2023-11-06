@@ -1,4 +1,4 @@
-import { IEventProps, Event } from '@pind/designable-shared'
+import { IEventProps, Event } from '@oxygen/designable-shared'
 import { ISchema } from '@formily/json-schema'
 import {
   Engine,

@@ -1,4 +1,4 @@
-import { EventDriver } from '@pind/designable-shared'
+import { EventDriver } from '@oxygen/designable-shared'
 import { Engine } from '../models/Engine'
 import { DragStartEvent, DragMoveEvent, DragStopEvent } from '../events'
 

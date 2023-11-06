@@ -1,4 +1,4 @@
-import { createLocales } from '@pind/designable-core'
+import { createLocales } from '@oxygen/designable-core'
 import { DatePicker } from './DatePicker'
 
 export const TimePicker = createLocales(DatePicker, {

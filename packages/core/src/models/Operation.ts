@@ -10,7 +10,7 @@ import {
   ICustomEvent,
   isFn,
   requestIdle,
-} from '@pind/designable-shared'
+} from '@oxygen/designable-shared'
 
 export interface IOperation {
   tree?: ITreeNode

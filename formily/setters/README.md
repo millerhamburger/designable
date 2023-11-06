@@ -1,7 +1,7 @@
-# @pind/designable-formily-setters
+# @oxygen/designable-formily-setters
 
 ### Install
 
 ```bash
-npm install --save @pind/designable-formily-setters
+npm install --save @oxygen/designable-formily-setters
 ```

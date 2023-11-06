@@ -1,1 +1,1 @@
-# @pind/designable-react
+# @oxygen/designable-react

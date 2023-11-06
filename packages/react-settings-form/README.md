@@ -1,1 +1,1 @@
-# @pind/designable-react-settings-form
+# @oxygen/designable-react-settings-form

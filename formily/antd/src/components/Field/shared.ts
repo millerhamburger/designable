@@ -3,7 +3,7 @@ import {
   ReactionsSetter,
   DataSourceSetter,
   ValidatorSetter,
-} from '@pind/designable-formily-setters'
+} from '@oxygen/designable-formily-setters'
 import { FormItemSwitcher } from '../../common/FormItemSwitcher'
 import { AllSchemas } from '../../schemas'
 
