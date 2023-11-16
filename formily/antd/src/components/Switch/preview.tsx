@@ -1,6 +1,6 @@
 import React from 'react'
 import { Switch as AntdSwitch } from 'antd'
-import { createBehavior, createResource } from '@oxygen/designable-core'
+import { createBehavior, createResource, GlobalRegistry } from '@oxygen/designable-core'
 import { DnFC } from '@oxygen/designable-react'
 import { createFieldSchema } from '../Field'
 import { AllSchemas } from '../../schemas'
@@ -25,7 +25,8 @@ Switch.Resource = createResource('Inputs', {
       componentName: 'Field',
       props: {
         type: 'boolean',
-        title: 'Switch',
+        // title: 'Switch',
+        title: AllLocales.Switch['zh-CN'].title || 'Switch',
         'x-decorator': 'FormItem',
         'x-component': 'Switch',
       },
